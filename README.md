@@ -7,3 +7,6 @@
 ## Banners
 
 ## Posters
+
+<img src="promo-poster/promo-poster.png" alt="Logo" width="512"/></img>
+
