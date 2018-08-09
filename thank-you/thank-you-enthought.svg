@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="thank-you-enthought.svg"
+   inkscape:export-filename="/home/vijaykumar/projects/pysangamam-art/thank-you-enthought.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51218215"
+     inkscape:cx="503.60614"
+     inkscape:cy="280.30825"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4445"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36217)">
+    <rect
+       style="fill:#218c74;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3673"
+       width="1024"
+       height="24"
+       x="0"
+       y="540.36218"
+       ry="0" />
+    <g
+       id="g3435"
+       transform="translate(12.218938,0)">
+      <g
+         transform="translate(0.6628565,-8.7426346)"
+         id="g4229">
+        <g
+           id="g4224">
+          <rect
+             rx="22.333984"
+             ry="24.334642"
+             y="822.02753"
+             x="525.39404"
+             height="109.58391"
+             width="419.93997"
+             id="rect4443"
+             style="fill:#fb7d76;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text4476"
+             y="893.96399"
+             x="657.27026"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Sans"
+             xml:space="preserve"><tspan
+               style="font-size:48px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Droid Sans Bold"
+               y="893.96399"
+               x="657.27026"
+               id="tspan4478"
+               sodipodi:role="line">PATRON</tspan></text>
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2985"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Sans"
+           transform="translate(37.28646,629.72944)"><flowRegion
+             id="flowRegion2987"><rect
+               id="rect2989"
+               width="493.9649"
+               height="355.34235"
+               x="484.20273"
+               y="33.654552" /></flowRegion><flowPara
+             id="flowPara2991"
+             style="font-size:56px;fill:#218c74;fill-opacity:1">THANK YOU</flowPara><flowPara
+             id="flowPara2993"
+             style="font-size:56px;font-weight:bold;fill:#218c74;fill-opacity:1;-inkscape-font-specification:Droid Sans Bold">ENTHOUGHT</flowPara></flowRoot>      </g>
+      <g
+         transform="matrix(0.15448623,0,0,0.15448623,53.565253,639.69537)"
+         data-name="Blue - Primary - Spot"
+         id="Blue_-_Primary_-_Spot">
+        <polygon
+           style="fill:#a1c3e3"
+           id="polygon3308"
+           points="668.88,387.84 668.88,1116.76 668.88,1116.76 1340.47,1504.5 1340.47,1259.01 881.58,994.06 881.58,994.06 881.58,993.96 881.58,510.54 881.49,510.49 668.88,387.74 668.88,387.74 "
+           class="cls-1" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 171.53,2519 v -215.91 h 190.91 v 43.35 H 214.05 V 2386 h 78.36 v 43 h -78.36 v 46.68 H 367.44 V 2519 H 171.53 z"
+           class="cls-2"
+           id="path27" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 619.25,2519 -120,-146.31 V 2519 H 456.26 V 2303.09 H 499.2 L 619.25,2449 v -145.91 h 42.93 V 2519 h -42.93 z"
+           class="cls-2"
+           id="path29" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 872.71,2346 v 173 h -42.94 v -173 h -78.36 v -42.94 H 954 V 2346 z"
+           class="cls-2"
+           id="path31" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 1204.13,2519 v -90.45 H 1086.58 V 2519 h -42.52 v -215.91 h 42.52 v 81.7 h 117.55 v -81.7 h 42.52 V 2519 h -42.52 z"
+           class="cls-2"
+           id="path33" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 1483.86,2526.09 c -67.95,0 -132.13,-42.94 -132.13,-115.88 0,-72.94 65.44,-114.21 132.54,-114.21 68,0 133,38.35 133,113 0,73.36 -65,117.13 -133.39,117.13 z m 0.83,-185.91 c -43.35,0 -89.2,21.68 -89.2,70.86 0,48.78 46.68,70.87 89.63,70.87 42.51,0 88.36,-25.43 88.36,-72.53 0,-48.38 -46.68,-69.2 -88.79,-69.2 z"
+           class="cls-2"
+           id="path35" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 1912,2491.91 c -20.84,25.85 -58.77,34.19 -90.45,34.19 -60,0 -101.71,-27.93 -101.71,-91.71 v -131.3 h 42.94 v 131.3 c 0,44.18 28.35,47.94 65,47.94 13.35,0 30,-2.92 41.69,-9.59 12.09,-6.66 16.26,-15 16.26,-38.35 v -131.3 h 42.51 v 131.3 c 0,22.51 -1.66,39.18 -16.26,57.52 z"
+           class="cls-2"
+           id="path37" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 2149.62,2526.09 c -68.36,0 -130.89,-41.27 -130.89,-115.05 0,-72.94 62.11,-115.05 130.06,-115.05 35.85,0 71.28,8.76 101.71,27.51 l -25.43,43.35 c -24.17,-16.67 -48.35,-27.1 -78.36,-27.1 -42.51,0 -84.2,24.18 -84.2,70.87 0,46.69 39.18,71.28 82.12,71.28 27.51,0 42.51,-6.26 65.86,-19.59 v -25.85 h -52.94 V 2396 h 97.12 v 90.86 c -33.36,27.1 -61.7,39.19 -105.05,39.19 z"
+           class="cls-2"
+           id="path39" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 2516.05,2519 v -90.45 H 2398.5 V 2519 H 2356 v -215.91 h 42.52 v 81.7 h 117.55 v -81.7 h 42.52 V 2519 h -42.52 z"
+           class="cls-2"
+           id="path41" />
+        <path
+           style="fill:#4488c7"
+           inkscape:connector-curvature="0"
+           transform="translate(-171.53,-497.9)"
+           d="m 2771.19,2346 v 173 h -42.94 v -173 h -78.36 v -42.94 h 202.58 V 2346 z"
+           class="cls-2"
+           id="path43" />
+        <polyline
+           style="fill:#4488c7"
+           id="polyline3319"
+           points="2012.06 387.74 2012.06 387.74 2012.06 387.74 2012.06 387.74 2012.06 387.74 2011.05 387.16 2011.05 387.16 1340.47 0 1340.47 0 669.89 387.16 669.89 387.16 668.88 387.74 668.88 387.74 881.49 510.49 881.58 510.44 1340.47 245.5 1586.85 387.74 1127.87 652.74 1127.87 652.74 1340.47 775.49 1340.47 775.49 1340.47 775.49 1340.47 775.49 1340.47 775.49 1340.47 775.49 2012.06 387.74"
+           class="cls-2" />
+        <polygon
+           style="fill:#4488c7"
+           id="polygon3321"
+           points="2012.06,1116.76 2012.06,1116.76 2011.05,1116.17 2011.05,1116.17 2011.05,871.84 1340.47,1259.01 1340.47,1504.5 "
+           class="cls-2" />
+      </g>
+    </g>
+  </g>
+</svg>
